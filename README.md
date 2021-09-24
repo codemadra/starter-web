@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+This simple shows how to do a starter web repository
 
 ## Introduction
 
