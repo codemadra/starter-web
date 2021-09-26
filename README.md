@@ -12,6 +12,10 @@ add another paragraph here...
 
 Sample website with plenty of files for demos
 
+more purpose info
+
+even more purpose info
+
 ## How to contribute
 
 Adding how to contribute
