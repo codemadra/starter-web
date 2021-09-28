@@ -19,3 +19,7 @@ even more purpose info
 ## How to contribute
 
 Adding how to contribute
+
+### Copyright
+
+2021 Git. Training. 
