@@ -20,6 +20,8 @@ even more purpose info
 
 Adding how to contribute
 
+Please fork this repository and then issue a pull request
+
 ### Copyright
 
 2021 Git. Training. 
