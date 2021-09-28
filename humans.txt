@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Tony Schoenbachler  tschoenbachler@gmail.com @schoeto
 
 # THANKS
 
