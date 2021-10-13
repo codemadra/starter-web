@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This simple shows how to do a starter web repository
+This simple shows how to do a starter web repository - update for emergency fix
 
 Add text for rebase example, more changes from myfeature branch 2
 
