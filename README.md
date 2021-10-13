@@ -2,7 +2,7 @@
 
 This simple shows how to do a starter web repository
 
-Add text for rebase example
+Add text for rebase example, more changes from myfeature branch 2
 
 ## Introduction
 
