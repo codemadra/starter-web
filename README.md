@@ -2,6 +2,8 @@
 
 This simple shows how to do a starter web repository
 
+Add text for rebase example
+
 ## Introduction
 
 This repository is for showing how Git and GitHub work
